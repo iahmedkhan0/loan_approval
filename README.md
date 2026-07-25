@@ -198,7 +198,7 @@ Loan-Approval-Predictor
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Loan-Approval-Predictor.git
+git clone https://github.com/iamahmedkhan0/loan_approval.git
 ```
 
 ### Go to Project Folder
