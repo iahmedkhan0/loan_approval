@@ -5,7 +5,7 @@
 ### 🚀 Machine Learning Project using Logistic Regression & Streamlit
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Python-3.11.9-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn">
 <img src="https://img.shields.io/badge/Streamlit-WebApp-red?style=for-the-badge&logo=streamlit">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
